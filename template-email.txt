@@ -9,11 +9,11 @@ Xin lỗi vì đã cross-posting, xin vui lòng bỏ qua email này nếu như b
 ---
 Vi-VN:
 
-Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 33:
+Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 36:
 
-* vào thứ Bảy - 09 tháng 06 (chiều nay),
-* từ 2:00 đến 4:00 chiều,
-* tại Viện Tin học Pháp ngữ IFI, 42 Tạ Quang Bửu, Hà Nội.
+* vào thứ Bảy - 05 tháng 08,
+* từ 08:00 đến 10:00 sáng,
+* tại Không gian Cộng đồng, số ... .
 
 Các câu hỏi thường gặp:
 
@@ -43,11 +43,11 @@ website của chúng tôi (song ngữ Anh/Việt): http://hanoicodingdojo.github
 ---
 En-US:
 
-I'm glad to announce that Hanoi Coding Dojo session #33 will be organized:
+I'm glad to announce that Hanoi Coding Dojo session #36 will be organized:
 
-* today, Saturday - June 9th,
-* from 2:00 PM to 4:00 PM,
-* at Institut de la Francophonie pour l'Informatique (IFI), 42 Ta Quang Buu, Hanoi.
+* Saturday - Aug 4th,
+* from 08:00 AM to 10:00 AM,
+* at Community Space, ... .
 
 Frequently asked questions:
 
